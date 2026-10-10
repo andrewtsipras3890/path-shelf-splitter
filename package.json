@@ -1,6 +1,6 @@
 {
   "name": "path-shelf-splitter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Splits paths into their component parts and reconstructs them across POSIX and Windows formats.",
   "type": "module",
   "main": "src/index.js",
